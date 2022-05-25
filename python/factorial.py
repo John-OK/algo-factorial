@@ -1,5 +1,5 @@
 def factorial(num):
-	# recursive version
+	## recursive version ##
 	# if num == 0:
 	# 	return 1
 	# elif num == 1:
@@ -7,7 +7,7 @@ def factorial(num):
 	# else:
 	# 	return num * factorial(num - 1)
 
-	# linear version
+	## linear version ##
 	answer = num
 	i = num
 
